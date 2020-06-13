@@ -1,0 +1,72 @@
+/*f4f6ff f3c623  127681 10375c*/
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: grey;
+  font-size: 4.375rem;
+  margin: 50 auto 0 auto ;
+  width: auto ;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #f4f6ff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.875rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.hamachiMain {
+  width: 20%;
+  height: 20%;
+}
+
+.hamachi1 {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.hamachi2 {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-left: 30px;
+}
